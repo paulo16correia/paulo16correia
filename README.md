@@ -40,7 +40,8 @@ work happens below the chat window rather than inside it.
 
 Specification-first, and honest about it: the architecture is frozen at v1.0 across
 131 documents — RFCs, architectural laws, ADRs, execution traces and a review gate.
-Kernel implementation has not started in public.
+The spec is deliberately a separate repository from the Kernel, so an implementation
+cannot quietly redefine the architecture it is meant to follow.
 
 → **[github.com/paulo16correia/AuroraOS](https://github.com/paulo16correia/AuroraOS)**
 
