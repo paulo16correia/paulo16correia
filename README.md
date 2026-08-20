@@ -4,7 +4,6 @@ I build software for problems that don't fit inside a template.
 
 Portugal · Software · AI · Systems
 
----
 
 ## 01 / NOW
 
@@ -16,7 +15,6 @@ learning      native iOS
 breaking      probably Aurora again
 ```
 
----
 
 ## 02 / SELECTED WORK
 
@@ -44,28 +42,26 @@ Software for people working on their feet.
 
 private · [context →](https://pcorreia.pt)
 
----
 
 ## 03 / SOME THINGS I BELIEVE
 
 Architecture is a set of decisions.
 
-If two systems need the same truth,
+If two systems need the same truth,  
 they shouldn't implement it twice.
 
 Offline isn't an edge case when people work underground.
 
-A good abstraction removes complexity.
+A good abstraction removes complexity.  
 It doesn't just hide it.
 
----
 
 ## 04 / WORKSHOP
 
 Small experiments and unfinished things.
 
-Some ideas ship.
-Some become lessons.
+Some ideas ship.  
+Some become lessons.  
 Some should probably have stayed in a notebook.
 
 ---
